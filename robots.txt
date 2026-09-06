@@ -1,0 +1,13 @@
+# Robots.txt for Gulshan Toppo Portfolio
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://gulshan1234g5.github.io/portfolio-fresh/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 10
+
+# Disallow admin/private paths (none currently)
+# Disallow: /admin/
+# Disallow: /private/
